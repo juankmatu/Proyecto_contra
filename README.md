@@ -26,7 +26,7 @@ Esta es una aplicación simple desarrollada en Python utilizando la biblioteca T
 ## Notas
 
 - Esta aplicación utiliza una base de datos simulada para almacenar los registros en memoria. No se realiza un almacenamiento persistente de los datos.
-- La base de datos se implementa como un diccionario en el script `registro.py`. Ten en cuenta que en una implementación real, se requeriría un enfoque de almacenamiento más robusto y seguro.
+- La base de datos se implementa como un diccionario en el script `main.py`. Ten en cuenta que en una implementación real, se requeriría un enfoque de almacenamiento más robusto y seguro.
 - La aplicación no incluye características de seguridad avanzadas ni autenticación de usuarios. Se recomienda agregar medidas adicionales según sea necesario para adaptarse a tus requisitos de seguridad.
 
 ## Autor
