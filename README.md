@@ -13,7 +13,7 @@ Esta es una aplicación simple desarrollada en Python utilizando la biblioteca T
 2. Instala la biblioteca Tkinter si no la tienes instalada. Puedes instalarla ejecutando el siguiente comando en la terminal o línea de comandos:
 
 
-3. Ejecuta el script `registro.py` en un entorno de Python.
+3. Ejecuta el script `main.py` en un entorno de Python.
 
 4. Aparecerá una ventana con un campo de entrada para el número de identificación y dos botones: "Registrar Ingreso" y "Registrar Egreso".
 
